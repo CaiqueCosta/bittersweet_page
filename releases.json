@@ -1,16 +1,5 @@
 [
   {
-    "version": "0.1.1",
-    "date": "2026-05-26T05:37:55Z",
-    "name": "Bittersweet 0.1.1",
-    "body": "# Bittersweet 0.1.1\n\nPublic Bittersweet release for macOS 14+.\n\nThis build is Developer ID signed and notarized for direct distribution outside the Mac App Store.\n",
-    "htmlUrl": "https://github.com/CaiqueCosta/bittersweet_page/releases/tag/v0.1.1",
-    "dmgUrl": "https://github.com/CaiqueCosta/bittersweet_page/releases/download/v0.1.1/Bittersweet-0.1.1.dmg",
-    "zipUrl": "https://github.com/CaiqueCosta/bittersweet_page/releases/download/v0.1.1/Bittersweet-0.1.1.zip",
-    "minimumMacOS": "macOS 14+",
-    "isLatest": true
-  },
-  {
     "version": "0.1.0",
     "date": "2026-05-26T03:19:43Z",
     "name": "Bittersweet 0.1.0",
@@ -19,6 +8,6 @@
     "dmgUrl": "https://github.com/CaiqueCosta/bittersweet_page/releases/download/v0.1.0/Bittersweet-0.1.0.dmg",
     "zipUrl": "https://github.com/CaiqueCosta/bittersweet_page/releases/download/v0.1.0/Bittersweet-0.1.0.zip",
     "minimumMacOS": "macOS 14+",
-    "isLatest": false
+    "isLatest": true
   }
 ]
