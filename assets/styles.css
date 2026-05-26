@@ -125,6 +125,13 @@ h1 {
   line-height: 1.45;
 }
 
+.byline {
+  margin: 14px 0 0;
+  color: var(--gold);
+  font-size: 0.95rem;
+  font-weight: 800;
+}
+
 .actions {
   display: flex;
   flex-wrap: wrap;
