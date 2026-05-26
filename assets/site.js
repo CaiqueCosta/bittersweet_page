@@ -1,4 +1,4 @@
-const repoReleasesUrl = "https://github.com/CaiqueCosta/bittersweet/releases";
+const repoReleasesUrl = "https://github.com/CaiqueCosta/bittersweet_page/releases";
 
 function escapeHtml(value) {
   return String(value ?? "")
