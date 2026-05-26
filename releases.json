@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "date": "2026-05-26T03:19:43Z",
     "name": "Bittersweet 0.1.0",
-    "body": "# Bittersweet 0.1.0\n\nFirst public test build of Bittersweet for macOS.\n\n- SwiftUI desktop workspace with transport controls, synth controls, and a piano roll.\n- Laptop keyboard note input using `A S D F G H J K L ;`.\n- Recording into editable note events.\n- Timeline playback and offline rendering through the same chiptune synthesis model.\n- Project save/load using editable `.bs` files.\n- WAV and MP3 export support.\n\nThis build is unsigned and not notarized yet. macOS may require an explicit security approval before launching it.\n",
+    "body": "# Bittersweet 0.1.0\n\nFirst public test build of Bittersweet for macOS.\n\n- SwiftUI desktop workspace with transport controls, synth controls, and a piano roll.\n- Laptop keyboard note input using `A S D F G H J K L ;`.\n- Recording into editable note events.\n- Timeline playback and offline rendering through the same chiptune synthesis model.\n- Project save/load using editable `.bs` files.\n- WAV and MP3 export support.\n\nThis build is unsigned. macOS may require right-click Open or Privacy & Security approval before launching it.\n",
     "htmlUrl": "https://github.com/CaiqueCosta/bittersweet_page/releases/tag/v0.1.0",
     "dmgUrl": "https://github.com/CaiqueCosta/bittersweet_page/releases/download/v0.1.0/Bittersweet-0.1.0.dmg",
     "zipUrl": "https://github.com/CaiqueCosta/bittersweet_page/releases/download/v0.1.0/Bittersweet-0.1.0.zip",
