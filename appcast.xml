@@ -6,13 +6,13 @@
     <description>Updates for Bittersweet.</description>
     <language>en</language>
     <item>
-      <title>Bittersweet 0.1.0</title>
-      <sparkle:version>14</sparkle:version>
-      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <title>Bittersweet 0.1.1</title>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Wed, 27 May 2026 00:45:40 GMT</pubDate>
-      <sparkle:releaseNotesLink>https://github.com/CaiqueCosta/bittersweet_page/releases/tag/v0.1.0</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/CaiqueCosta/bittersweet_page/releases/download/v0.1.0/Bittersweet-0.1.0.zip" sparkle:edSignature="2u+nY2BC/kQV9XmxtRC9Y9z0GBdVX+Jevf4b7v+njSl4+ajKBrcVnYuxjBVpIulkIZRPOtqetaPaUQ9qAyMlBA==" length="6601572" type="application/octet-stream"/>
+      <pubDate>Wed, 27 May 2026 00:46:50 GMT</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/CaiqueCosta/bittersweet_page/releases/tag/v0.1.1</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/CaiqueCosta/bittersweet_page/releases/download/v0.1.1/Bittersweet-0.1.1.zip" sparkle:edSignature="P4aka8WhIU5G4dqeqcysBWkCNdE5y5NkdDCYPWIMURJlRdOt6lMw+4PSXsZnNTX/gQdiVdFt9LqfxcQ26BS8Cg==" length="6601544" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
