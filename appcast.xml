@@ -7,12 +7,12 @@
     <language>en</language>
     <item>
       <title>Bittersweet 0.1.1</title>
-      <sparkle:version>12</sparkle:version>
+      <sparkle:version>13</sparkle:version>
       <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Wed, 27 May 2026 00:36:55 GMT</pubDate>
+      <pubDate>Wed, 27 May 2026 00:40:18 GMT</pubDate>
       <sparkle:releaseNotesLink>https://github.com/CaiqueCosta/bittersweet_page/releases/tag/v0.1.1</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/CaiqueCosta/bittersweet_page/releases/download/v0.1.1/Bittersweet-0.1.1.zip" sparkle:edSignature="PdfC4lnSNZb8agMRiyHmODbu2AhnwkbeFClm7qGJRozTCRSJV2GTRIePZlaSc+JGamQ3fRuI7eZ6uLEnTfrMAw==" length="6601586" type="application/octet-stream"/>
+      <enclosure url="https://github.com/CaiqueCosta/bittersweet_page/releases/download/v0.1.1/Bittersweet-0.1.1.zip" sparkle:edSignature="9cCU1iTeGmwB7HnXu2ecateyxCSXEO7p2/DvM50pK+b8252E6d1iJ2QR5MTF+MluOT7rcaoluPUc4p0FQMTLCQ==" length="6601166" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
